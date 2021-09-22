@@ -57,4 +57,5 @@ Let's walk through installing PostgreSQL with the postgresapp on Mac.
   # After Install PostgreSQL
   You need to create database named "Assignment".
   You can run this query.
+  
   `CREATE DATABASE Assignment`
